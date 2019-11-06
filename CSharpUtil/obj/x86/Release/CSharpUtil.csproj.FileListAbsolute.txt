@@ -1,0 +1,42 @@
+C:\Users\jcleo\Google Drive\ProjetosWeb\ClaUtil\ClaUtil\bin\x86\Release\CSharpUtil.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\ClaUtil\ClaUtil\bin\x86\Release\CSharpUtil.pdb
+C:\Users\jcleo\Google Drive\ProjetosWeb\ClaUtil\ClaUtil\bin\x86\Release\EPPlus.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\ClaUtil\ClaUtil\bin\x86\Release\itextsharp.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\ClaUtil\ClaUtil\bin\x86\Release\EPPlus.xml
+C:\Users\jcleo\Google Drive\ProjetosWeb\ClaUtil\ClaUtil\bin\x86\Release\itextsharp.xml
+C:\Users\jcleo\Google Drive\ProjetosWeb\ClaUtil\ClaUtil\obj\x86\Release\CSharpUtil.csprojResolveAssemblyReference.cache
+C:\Users\jcleo\Google Drive\ProjetosWeb\ClaUtil\ClaUtil\obj\x86\Release\CSharpUtil.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\ClaUtil\ClaUtil\obj\x86\Release\CSharpUtil.pdb
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\bin\x86\Release\CSharpUtil.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\bin\x86\Release\CSharpUtil.pdb
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\bin\x86\Release\EPPlus.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\bin\x86\Release\itextsharp.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\bin\x86\Release\EPPlus.xml
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\bin\x86\Release\itextsharp.xml
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\obj\x86\Release\CSharpUtil.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\obj\x86\Release\CSharpUtil.pdb
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\obj\x86\Release\CSharpUtil.csprojResolveAssemblyReference.cache
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtilities\CSharpUtil\bin\x86\Release\CSharpUtil.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtilities\CSharpUtil\bin\x86\Release\CSharpUtil.pdb
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtilities\CSharpUtil\bin\x86\Release\EPPlus.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtilities\CSharpUtil\bin\x86\Release\itextsharp.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtilities\CSharpUtil\bin\x86\Release\EPPlus.xml
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtilities\CSharpUtil\bin\x86\Release\itextsharp.xml
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtilities\CSharpUtil\obj\x86\Release\CSharpUtil.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtilities\CSharpUtil\obj\x86\Release\CSharpUtil.pdb
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtilities\CSharpUtil\obj\x86\Release\CSharpUtil.csprojResolveAssemblyReference.cache
+C:\Dev\CSharpUtilities\CSharpUtil\bin\x86\Release\CSharpUtil.dll.config
+C:\Dev\CSharpUtilities\CSharpUtil\bin\x86\Release\CSharpUtil.dll
+C:\Dev\CSharpUtilities\CSharpUtil\bin\x86\Release\CSharpUtil.pdb
+C:\Dev\CSharpUtilities\CSharpUtil\bin\x86\Release\BouncyCastle.Crypto.dll
+C:\Dev\CSharpUtilities\CSharpUtil\bin\x86\Release\EPPlus.dll
+C:\Dev\CSharpUtilities\CSharpUtil\bin\x86\Release\itextsharp.dll
+C:\Dev\CSharpUtilities\CSharpUtil\bin\x86\Release\MailKit.dll
+C:\Dev\CSharpUtilities\CSharpUtil\bin\x86\Release\MimeKit.dll
+C:\Dev\CSharpUtilities\CSharpUtil\bin\x86\Release\EPPlus.xml
+C:\Dev\CSharpUtilities\CSharpUtil\bin\x86\Release\itextsharp.xml
+C:\Dev\CSharpUtilities\CSharpUtil\bin\x86\Release\MailKit.xml
+C:\Dev\CSharpUtilities\CSharpUtil\bin\x86\Release\MimeKit.xml
+C:\Dev\CSharpUtilities\CSharpUtil\obj\x86\Release\CSharpUtil.dll
+C:\Dev\CSharpUtilities\CSharpUtil\obj\x86\Release\CSharpUtil.pdb
+C:\Dev\CSharpUtilities\CSharpUtil\obj\x86\Release\CSharpUtil.csprojResolveAssemblyReference.cache

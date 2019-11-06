@@ -1,0 +1,9 @@
+C:\Users\jcleo\Google Drive\ProjetosWeb\ClaUtil\ClaUtil\bin\x86\Release\ClaUtil.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\ClaUtil\ClaUtil\bin\x86\Release\ClaUtil.pdb
+C:\Users\jcleo\Google Drive\ProjetosWeb\ClaUtil\ClaUtil\bin\x86\Release\EPPlus.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\ClaUtil\ClaUtil\bin\x86\Release\itextsharp.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\ClaUtil\ClaUtil\bin\x86\Release\EPPlus.xml
+C:\Users\jcleo\Google Drive\ProjetosWeb\ClaUtil\ClaUtil\bin\x86\Release\itextsharp.xml
+C:\Users\jcleo\Google Drive\ProjetosWeb\ClaUtil\ClaUtil\obj\x86\Release\CsUtil.csprojResolveAssemblyReference.cache
+C:\Users\jcleo\Google Drive\ProjetosWeb\ClaUtil\ClaUtil\obj\x86\Release\ClaUtil.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\ClaUtil\ClaUtil\obj\x86\Release\ClaUtil.pdb

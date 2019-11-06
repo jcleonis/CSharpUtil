@@ -1,0 +1,17 @@
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\bin\x86\Debug\CSharpUtil.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\bin\x86\Debug\CSharpUtil.pdb
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\bin\x86\Debug\EPPlus.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\bin\x86\Debug\itextsharp.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\bin\x86\Debug\EPPlus.xml
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\bin\x86\Debug\itextsharp.xml
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\obj\x86\Debug\CSharpUtil.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\obj\x86\Debug\CSharpUtil.pdb
+C:\Dev\CSharpUtilities\CSharpUtil\bin\x86\Debug\CSharpUtil.dll
+C:\Dev\CSharpUtilities\CSharpUtil\bin\x86\Debug\CSharpUtil.pdb
+C:\Dev\CSharpUtilities\CSharpUtil\bin\x86\Debug\EPPlus.dll
+C:\Dev\CSharpUtilities\CSharpUtil\bin\x86\Debug\itextsharp.dll
+C:\Dev\CSharpUtilities\CSharpUtil\bin\x86\Debug\EPPlus.xml
+C:\Dev\CSharpUtilities\CSharpUtil\bin\x86\Debug\itextsharp.xml
+C:\Dev\CSharpUtilities\CSharpUtil\obj\x86\Debug\CSharpUtil.dll
+C:\Dev\CSharpUtilities\CSharpUtil\obj\x86\Debug\CSharpUtil.pdb
+C:\Dev\CSharpUtilities\CSharpUtil\obj\x86\Debug\CSharpUtil.csprojResolveAssemblyReference.cache

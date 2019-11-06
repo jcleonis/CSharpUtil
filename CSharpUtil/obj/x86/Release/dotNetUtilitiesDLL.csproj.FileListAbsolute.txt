@@ -1,0 +1,7 @@
+C:\Users\Jonatas\Google Drive\ProjetosWeb\dotNetUtilitiesDLL\dotNetUtilitiesDLL\bin\x86\Release\dotNetUtilitiesDLL.dll
+C:\Users\Jonatas\Google Drive\ProjetosWeb\dotNetUtilitiesDLL\dotNetUtilitiesDLL\bin\x86\Release\dotNetUtilitiesDLL.pdb
+C:\Users\Jonatas\Google Drive\ProjetosWeb\dotNetUtilitiesDLL\dotNetUtilitiesDLL\bin\x86\Release\itextsharp.dll
+C:\Users\Jonatas\Google Drive\ProjetosWeb\dotNetUtilitiesDLL\dotNetUtilitiesDLL\bin\x86\Release\itextsharp.xml
+C:\Users\Jonatas\Google Drive\ProjetosWeb\dotNetUtilitiesDLL\dotNetUtilitiesDLL\obj\x86\Release\dotNetUtilitiesDLL.csprojResolveAssemblyReference.cache
+C:\Users\Jonatas\Google Drive\ProjetosWeb\dotNetUtilitiesDLL\dotNetUtilitiesDLL\obj\x86\Release\dotNetUtilitiesDLL.dll
+C:\Users\Jonatas\Google Drive\ProjetosWeb\dotNetUtilitiesDLL\dotNetUtilitiesDLL\obj\x86\Release\dotNetUtilitiesDLL.pdb

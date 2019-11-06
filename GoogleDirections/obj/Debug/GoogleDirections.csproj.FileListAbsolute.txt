@@ -1,0 +1,6 @@
+C:\Dev\CSharpUtilities\GoogleDirections\bin\Debug\GoogleDirections.XML
+C:\Dev\CSharpUtilities\GoogleDirections\bin\Debug\GoogleDirections.dll
+C:\Dev\CSharpUtilities\GoogleDirections\bin\Debug\GoogleDirections.pdb
+C:\Dev\CSharpUtilities\GoogleDirections\obj\Debug\GoogleDirections.dll
+C:\Dev\CSharpUtilities\GoogleDirections\obj\Debug\GoogleDirections.pdb
+C:\Dev\CSharpUtilities\GoogleDirections\obj\Debug\GoogleDirections.csprojResolveAssemblyReference.cache

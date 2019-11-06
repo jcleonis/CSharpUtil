@@ -1,0 +1,36 @@
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\bin\Debug\CSharpUtil.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\bin\Debug\CSharpUtil.pdb
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\bin\Debug\EPPlus.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\bin\Debug\itextsharp.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\bin\Debug\EPPlus.xml
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\bin\Debug\itextsharp.xml
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\obj\Debug\CSharpUtil.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\obj\Debug\CSharpUtil.pdb
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\obj\Debug\CSharpUtil.csprojResolveAssemblyReference.cache
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtilities\CSharpUtil\bin\Debug\CSharpUtil.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtilities\CSharpUtil\bin\Debug\CSharpUtil.pdb
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtilities\CSharpUtil\bin\Debug\EPPlus.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtilities\CSharpUtil\bin\Debug\itextsharp.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtilities\CSharpUtil\bin\Debug\EPPlus.xml
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtilities\CSharpUtil\bin\Debug\itextsharp.xml
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtilities\CSharpUtil\obj\Debug\CSharpUtil.csprojResolveAssemblyReference.cache
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtilities\CSharpUtil\obj\Debug\CSharpUtil.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtilities\CSharpUtil\obj\Debug\CSharpUtil.pdb
+C:\Dev\CSharpUtilities\CSharpUtil\bin\Debug\CSharpUtil.dll
+C:\Dev\CSharpUtilities\CSharpUtil\bin\Debug\CSharpUtil.pdb
+C:\Dev\CSharpUtilities\CSharpUtil\bin\Debug\BouncyCastle.Crypto.dll
+C:\Dev\CSharpUtilities\CSharpUtil\bin\Debug\EPPlus.dll
+C:\Dev\CSharpUtilities\CSharpUtil\bin\Debug\itextsharp.dll
+C:\Dev\CSharpUtilities\CSharpUtil\bin\Debug\MailKit.dll
+C:\Dev\CSharpUtilities\CSharpUtil\bin\Debug\MimeKit.dll
+C:\Dev\CSharpUtilities\CSharpUtil\bin\Debug\EPPlus.xml
+C:\Dev\CSharpUtilities\CSharpUtil\bin\Debug\itextsharp.xml
+C:\Dev\CSharpUtilities\CSharpUtil\bin\Debug\MailKit.xml
+C:\Dev\CSharpUtilities\CSharpUtil\bin\Debug\MimeKit.xml
+C:\Dev\CSharpUtilities\CSharpUtil\obj\Debug\CSharpUtil.dll
+C:\Dev\CSharpUtilities\CSharpUtil\obj\Debug\CSharpUtil.pdb
+C:\Dev\CSharpUtilities\CSharpUtil\bin\Debug\CSharpUtil.dll.config
+C:\Dev\CSharpUtilities\CSharpUtil\bin\Debug\GoogleDirections.dll
+C:\Dev\CSharpUtilities\CSharpUtil\bin\Debug\GoogleDirections.pdb
+C:\Dev\CSharpUtilities\CSharpUtil\bin\Debug\GoogleDirections.xml
+C:\Dev\CSharpUtilities\CSharpUtil\obj\Debug\CSharpUtil.csprojResolveAssemblyReference.cache

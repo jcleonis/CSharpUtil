@@ -1,0 +1,18 @@
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\bin\Release\CSharpUtil.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\bin\Release\CSharpUtil.pdb
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\bin\Release\EPPlus.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\bin\Release\itextsharp.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\bin\Release\EPPlus.xml
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\bin\Release\itextsharp.xml
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\obj\Release\CSharpUtil.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\obj\Release\CSharpUtil.pdb
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\obj\Release\CSharpUtil.csprojResolveAssemblyReference.cache
+C:\Dev\CSharpUtilities\CSharpUtil\bin\Release\CSharpUtil.dll
+C:\Dev\CSharpUtilities\CSharpUtil\bin\Release\CSharpUtil.pdb
+C:\Dev\CSharpUtilities\CSharpUtil\bin\Release\EPPlus.dll
+C:\Dev\CSharpUtilities\CSharpUtil\bin\Release\itextsharp.dll
+C:\Dev\CSharpUtilities\CSharpUtil\bin\Release\EPPlus.xml
+C:\Dev\CSharpUtilities\CSharpUtil\bin\Release\itextsharp.xml
+C:\Dev\CSharpUtilities\CSharpUtil\obj\Release\CSharpUtil.csprojResolveAssemblyReference.cache
+C:\Dev\CSharpUtilities\CSharpUtil\obj\Release\CSharpUtil.dll
+C:\Dev\CSharpUtilities\CSharpUtil\obj\Release\CSharpUtil.pdb

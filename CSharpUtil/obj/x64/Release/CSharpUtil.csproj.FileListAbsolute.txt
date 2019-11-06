@@ -1,0 +1,8 @@
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\bin\x64\Release\CSharpUtil.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\bin\x64\Release\CSharpUtil.pdb
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\bin\x64\Release\EPPlus.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\bin\x64\Release\itextsharp.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\bin\x64\Release\EPPlus.xml
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\bin\x64\Release\itextsharp.xml
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\obj\x64\Release\CSharpUtil.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\CSharpUtil\obj\x64\Release\CSharpUtil.pdb

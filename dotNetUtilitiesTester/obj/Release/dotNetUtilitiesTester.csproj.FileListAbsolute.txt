@@ -1,0 +1,95 @@
+C:\Users\Jonatas\Google Drive\ProjetosWeb\dotNetUtilitiesDLL\dotNetUtilitiesTester\bin\Release\dotNetUtilitiesTester.exe.config
+C:\Users\Jonatas\Google Drive\ProjetosWeb\dotNetUtilitiesDLL\dotNetUtilitiesTester\bin\Release\dotNetUtilitiesTester.exe
+C:\Users\Jonatas\Google Drive\ProjetosWeb\dotNetUtilitiesDLL\dotNetUtilitiesTester\bin\Release\dotNetUtilitiesTester.pdb
+C:\Users\Jonatas\Google Drive\ProjetosWeb\dotNetUtilitiesDLL\dotNetUtilitiesTester\bin\Release\itextsharp.dll
+C:\Users\Jonatas\Google Drive\ProjetosWeb\dotNetUtilitiesDLL\dotNetUtilitiesTester\bin\Release\itextsharp.xml
+C:\Users\Jonatas\Google Drive\ProjetosWeb\dotNetUtilitiesDLL\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.csprojResolveAssemblyReference.cache
+C:\Users\Jonatas\Google Drive\ProjetosWeb\dotNetUtilitiesDLL\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.frmMenu.resources
+C:\Users\Jonatas\Google Drive\ProjetosWeb\dotNetUtilitiesDLL\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.frmExcelGenerator.resources
+C:\Users\Jonatas\Google Drive\ProjetosWeb\dotNetUtilitiesDLL\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.frmPDFGenerator.resources
+C:\Users\Jonatas\Google Drive\ProjetosWeb\dotNetUtilitiesDLL\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.Properties.Resources.resources
+C:\Users\Jonatas\Google Drive\ProjetosWeb\dotNetUtilitiesDLL\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.csproj.GenerateResource.Cache
+C:\Users\Jonatas\Google Drive\ProjetosWeb\dotNetUtilitiesDLL\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.exe
+C:\Users\Jonatas\Google Drive\ProjetosWeb\dotNetUtilitiesDLL\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.pdb
+C:\Users\Jonatas\Google Drive\ProjetosWeb\dotNetUtilitiesDLL\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.frmEmailSender.resources
+C:\Users\Jonatas\Google Drive\ProjetosWeb\dotNetUtilitiesDLL\dotNetUtilitiesTester\bin\Release\ClaUtil.dll
+C:\Users\Jonatas\Google Drive\ProjetosWeb\dotNetUtilitiesDLL\dotNetUtilitiesTester\bin\Release\EPPlus.dll
+C:\Users\Jonatas\Google Drive\ProjetosWeb\dotNetUtilitiesDLL\dotNetUtilitiesTester\bin\Release\EPPlus.xml
+C:\Users\Jonatas\Google Drive\ProjetosWeb\ClaUtil\dotNetUtilitiesTester\bin\Release\dotNetUtilitiesTester.exe.config
+C:\Users\Jonatas\Google Drive\ProjetosWeb\ClaUtil\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.exe
+C:\Users\Jonatas\Google Drive\ProjetosWeb\ClaUtil\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.pdb
+C:\Users\Jonatas\Google Drive\ProjetosWeb\ClaUtil\dotNetUtilitiesTester\bin\Release\dotNetUtilitiesTester.exe
+C:\Users\Jonatas\Google Drive\ProjetosWeb\ClaUtil\dotNetUtilitiesTester\bin\Release\dotNetUtilitiesTester.pdb
+C:\Users\Jonatas\Google Drive\ProjetosWeb\ClaUtil\dotNetUtilitiesTester\bin\Release\ClaUtil.dll
+C:\Users\Jonatas\Google Drive\ProjetosWeb\ClaUtil\dotNetUtilitiesTester\bin\Release\EPPlus.dll
+C:\Users\Jonatas\Google Drive\ProjetosWeb\ClaUtil\dotNetUtilitiesTester\bin\Release\itextsharp.dll
+C:\Users\Jonatas\Google Drive\ProjetosWeb\ClaUtil\dotNetUtilitiesTester\bin\Release\EPPlus.xml
+C:\Users\Jonatas\Google Drive\ProjetosWeb\ClaUtil\dotNetUtilitiesTester\bin\Release\itextsharp.xml
+C:\Users\Jonatas\Google Drive\ProjetosWeb\ClaUtil\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.frmEmailSender.resources
+C:\Users\Jonatas\Google Drive\ProjetosWeb\ClaUtil\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.frmMenu.resources
+C:\Users\Jonatas\Google Drive\ProjetosWeb\ClaUtil\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.frmExcelGenerator.resources
+C:\Users\Jonatas\Google Drive\ProjetosWeb\ClaUtil\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.frmPDFGenerator.resources
+C:\Users\Jonatas\Google Drive\ProjetosWeb\ClaUtil\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.Properties.Resources.resources
+C:\Users\Jonatas\Google Drive\ProjetosWeb\ClaUtil\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.csproj.GenerateResource.Cache
+C:\Users\Jonatas\Google Drive\ProjetosWeb\ClaUtil\dotNetUtilitiesTester\bin\Release\ClaUtil.pdb
+C:\Users\Jonatas\Google Drive\ProjetosWeb\ClaUtil\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.csprojResolveAssemblyReference.cache
+C:\Users\jcleo\Google Drive\ProjetosWeb\ClaUtil\dotNetUtilitiesTester\bin\Release\dotNetUtilitiesTester.exe.config
+C:\Users\jcleo\Google Drive\ProjetosWeb\ClaUtil\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.exe
+C:\Users\jcleo\Google Drive\ProjetosWeb\ClaUtil\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.pdb
+C:\Users\jcleo\Google Drive\ProjetosWeb\ClaUtil\dotNetUtilitiesTester\bin\Release\dotNetUtilitiesTester.exe
+C:\Users\jcleo\Google Drive\ProjetosWeb\ClaUtil\dotNetUtilitiesTester\bin\Release\dotNetUtilitiesTester.pdb
+C:\Users\jcleo\Google Drive\ProjetosWeb\ClaUtil\dotNetUtilitiesTester\bin\Release\EPPlus.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\ClaUtil\dotNetUtilitiesTester\bin\Release\itextsharp.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\ClaUtil\dotNetUtilitiesTester\bin\Release\EPPlus.xml
+C:\Users\jcleo\Google Drive\ProjetosWeb\ClaUtil\dotNetUtilitiesTester\bin\Release\itextsharp.xml
+C:\Users\jcleo\Google Drive\ProjetosWeb\ClaUtil\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.csprojResolveAssemblyReference.cache
+C:\Users\jcleo\Google Drive\ProjetosWeb\ClaUtil\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.frmEmailSender.resources
+C:\Users\jcleo\Google Drive\ProjetosWeb\ClaUtil\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.frmMenu.resources
+C:\Users\jcleo\Google Drive\ProjetosWeb\ClaUtil\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.frmExcelGenerator.resources
+C:\Users\jcleo\Google Drive\ProjetosWeb\ClaUtil\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.frmPDFGenerator.resources
+C:\Users\jcleo\Google Drive\ProjetosWeb\ClaUtil\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.Properties.Resources.resources
+C:\Users\jcleo\Google Drive\ProjetosWeb\ClaUtil\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.csproj.GenerateResource.Cache
+C:\Users\jcleo\Google Drive\ProjetosWeb\ClaUtil\dotNetUtilitiesTester\bin\Release\CSharpUtil.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\dotNetUtilitiesTester\bin\Release\dotNetUtilitiesTester.exe.config
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\dotNetUtilitiesTester\bin\Release\dotNetUtilitiesTester.exe
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\dotNetUtilitiesTester\bin\Release\dotNetUtilitiesTester.pdb
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\dotNetUtilitiesTester\bin\Release\CSharpUtil.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\dotNetUtilitiesTester\bin\Release\EPPlus.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\dotNetUtilitiesTester\bin\Release\itextsharp.dll
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\dotNetUtilitiesTester\bin\Release\EPPlus.xml
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\dotNetUtilitiesTester\bin\Release\itextsharp.xml
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.csprojResolveAssemblyReference.cache
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.frmEmailSender.resources
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.frmMenu.resources
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.frmExcelGenerator.resources
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.frmCode128Generator.resources
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.frmPDFGenerator.resources
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.Properties.Resources.resources
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.csproj.GenerateResource.Cache
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.exe
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtil\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.pdb
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtilities\dotNetUtilitiesTester\bin\Release\dotNetUtilitiesTester.exe.config
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtilities\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.exe
+C:\Users\jcleo\Google Drive\ProjetosWeb\CSharpUtilities\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.pdb
+C:\Dev\CSharpUtilities\dotNetUtilitiesTester\bin\Release\dotNetUtilitiesTester.exe.config
+C:\Dev\CSharpUtilities\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.exe
+C:\Dev\CSharpUtilities\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.pdb
+C:\Dev\CSharpUtilities\dotNetUtilitiesTester\bin\Release\dotNetUtilitiesTester.exe
+C:\Dev\CSharpUtilities\dotNetUtilitiesTester\bin\Release\dotNetUtilitiesTester.pdb
+C:\Dev\CSharpUtilities\dotNetUtilitiesTester\bin\Release\CSharpUtil.dll
+C:\Dev\CSharpUtilities\dotNetUtilitiesTester\bin\Release\EPPlus.dll
+C:\Dev\CSharpUtilities\dotNetUtilitiesTester\bin\Release\itextsharp.dll
+C:\Dev\CSharpUtilities\dotNetUtilitiesTester\bin\Release\CSharpUtil.pdb
+C:\Dev\CSharpUtilities\dotNetUtilitiesTester\bin\Release\EPPlus.xml
+C:\Dev\CSharpUtilities\dotNetUtilitiesTester\bin\Release\itextsharp.xml
+C:\Dev\CSharpUtilities\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.csprojResolveAssemblyReference.cache
+C:\Dev\CSharpUtilities\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.frmCodeInter25.resources
+C:\Dev\CSharpUtilities\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.frmEmailSender.resources
+C:\Dev\CSharpUtilities\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.frmMenu.resources
+C:\Dev\CSharpUtilities\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.frmExcelGenerator.resources
+C:\Dev\CSharpUtilities\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.frmCode128.resources
+C:\Dev\CSharpUtilities\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.frmPDFGenerator.resources
+C:\Dev\CSharpUtilities\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.Properties.Resources.resources
+C:\Dev\CSharpUtilities\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.csproj.GenerateResource.Cache
+C:\Dev\CSharpUtilities\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.frmFileManager.resources
+C:\Dev\CSharpUtilities\dotNetUtilitiesTester\obj\Release\dotNetUtilitiesTester.frmNewGuid.resources
